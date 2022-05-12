@@ -1,2 +1,2 @@
 # ITI
-Practical work for AI track 
+Practical work for AI and ML track 
