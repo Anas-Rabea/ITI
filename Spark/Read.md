@@ -66,6 +66,8 @@ cols: songplay_id, start_time, user_id, level, song_id, artist_id, session_id, l
 **time** - timestamps of records in songplays broken down into specific units
 , cols : start_time, hour, day, week, month, year, weekday
 
-![The schema](https://github.com/Anas-Rabea/Udacity/blob/main/sparkifydb_erd.png)
+
+
+![s3 bucket after saving files](https://github.com/Anas-Rabea/ITI/blob/main/Spark/s3%20savings.jpeg)
 
 
