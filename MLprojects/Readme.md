@@ -10,4 +10,4 @@ lastly, I tested my model on live video to make sure it's working correctly and 
  You can use link below to watch live video implementation 
  *
  
-Link: shorturl.at/gmuA5
+Link: shorturl.at/dgoz7
